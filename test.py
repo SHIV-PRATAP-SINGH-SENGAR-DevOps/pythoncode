@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v10 >>> SHIV PRATAP SINGH SENGAR 01 <<<"
+print("Wassup Buddy!! v10 >>> SHIV PRATAP SINGH SENGAR 01 <<<")
